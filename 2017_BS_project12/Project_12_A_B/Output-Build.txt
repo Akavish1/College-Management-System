@@ -1,0 +1,11 @@
+﻿Restoring NuGet packages...
+To prevent NuGet from restoring packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages during build.'
+1>------ Build started: Project: Project_12_A_B, Configuration: Debug Any CPU ------
+1>C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\PL\FrmViewSchedule.cs(13,7,13,21): warning CS0105: The using directive for 'System.Drawing' appeared previously in this namespace
+1>C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\PL\SystemUsers.Designer.cs(116,45,116,52): warning CS0108: 'SystemUsers.Refresh' hides inherited member 'Control.Refresh()'. Use the new keyword if hiding was intended.
+1>C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\Classes\Admin.cs(27,30,27,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\CodeLayer\Lesson.cs(20,28,20,37): warning CS0414: The field 'Lesson.numOfStud' is assigned but its value is never used
+1>C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\PL\AddStudent.cs(20,76,20,85): warning CS0414: The field 'AddStudentform.countYear' is assigned but its value is never used
+1>C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\PL\AddStudent.cs(20,22,20,29): warning CS0414: The field 'AddStudentform.countID' is assigned but its value is never used
+1>  Project_12_A_B -> C:\Users\User\Source\Repos\Project12\Project_12_A_B\Project_12_A_B\bin\Debug\Project_12_A_B.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
